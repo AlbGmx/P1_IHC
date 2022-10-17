@@ -1,2 +1,2 @@
-# Práctica 1 Interaccion Humano-Computadora
-Segunda practica de laboratorio de la asignatura de Intreraccion Humano-Computadora
+# Práctica 1 Interacción Humano-Computadora
+Segunda práctica de laboratorio de la asignatura de Intreracción Humano-Computadora
